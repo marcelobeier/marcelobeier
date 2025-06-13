@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @marcelobeier
-- 👀 I’m interested in maufacturing and programming
+- 👀 I’m interested in data and programming
 - 🌱 I’m currently learning VBA and Python
 - 💞️ I’m looking to collaborate on learning skills
-- 📫 How to reach me: github 
+- 📫 How to reach me: ig @marcelobeier
 - 😄 Pronouns: wtf
 - ⚡ Fun fact: 
 
