@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcelobeier
 - 👀 I’m interested in data and programming
-- 🌱 I’m currently learning VBA and Python and SQL
+- 🌱 I’m currently learning VBA, Python and SQL
 - 💞️ I’m looking to collaborate on learning skills
 - 📫 How to reach me: ig @marcelobeier
 - 😄 Pronouns: wtf
